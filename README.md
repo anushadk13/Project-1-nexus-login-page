@@ -1,5 +1,7 @@
 # Bootstrap 5 Login Page 
 
+<img width="1440" alt="Screenshot 2024-03-31 at 1 34 23 AM" src="https://github.com/anushadk13/Project-1-nexus-login-page/assets/122234698/f70b9adf-e5c8-4860-9247-f9f13aa95874">
+
 # Installation
 Let's make it easy! Just download this template, use it on your project.
 
