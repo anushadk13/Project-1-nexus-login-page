@@ -1,16 +1,5 @@
 # Bootstrap 5 Login Page 
 
-[![GitHub license](https://img.shields.io/github/license/nauvalazhar/my-login.svg)](https://github.com/nauvalazhar/bootstrap-5-login-page/blob/master/LICENSE)
-![Author](https://img.shields.io/badge/author-%40nauvalazhar-blue.svg)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/bootstrap-5-login-page/.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnauvalazhar%2Fbootstrap-5-login-page%2F)
-
-This is a Bootstrap 5 Login Page template, you can use it as you wish and it's free for personal or commercial use.
-
-<div align="center">
-<img src="https://i.ibb.co/pfbd8TS/Screenshot-2021-03-06-Bootstrap-5-Login-Page-2.png">
-<img src="https://i.ibb.co/CQsJsBT/Screenshot-1.png">
-</div>
-
 # Installation
 Let's make it easy! Just download this template, use it on your project.
 
@@ -31,8 +20,6 @@ Let's make it easy! Just download this template, use it on your project.
 - Fully responsive
 - and more ...
 
-# Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/nauvalazhar/bootstrap-5-login-page/issues) and we'll fix it together for a better template.
 
 # Contribution
 Contribution are always welcome and recommended! Here is how:
@@ -42,23 +29,5 @@ Contribution are always welcome and recommended! Here is how:
 - Make your changes
 - Create a pull request
 
-# Changelogs
-### Mar 06, 2021
-  - **Initial release for Bootstrap 5 version**
-### Aug 29, 2017
-  - **Initial release for BOotstrap 4 version ([see here](https://github.com/nauvalazhar/bootstrap-4-login-page))**
-
-# Looking For a Free Admin Template?
-Stisla is waiting for you. [Download now](https://getstisla.com).
-
-[![Stisla Preview](https://getstisla.com/landing/stisla-share.png)](https://getstisla.com)
 
 
-# Buy me a Coffee
-Support me :) http://buymeacoff.ee/mhdnauvalazhar
-
-# License
-[MIT License](http://opensource.org/licenses/MIT)
-
----
-<div align="center">Have a good day! ❤️</div>
